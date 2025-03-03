@@ -2,8 +2,9 @@
 export default {
   content: [],
   theme: {
+    ok
    extend: {},
   },
-  
+
   plugins: [],
 }
